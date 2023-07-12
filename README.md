@@ -1,7 +1,7 @@
-# SpringBoot3-karlo-project
 
+# application.yml
 
-application.yml
-
-kakao:
-  restKey: KAKAO_REST_API_KEY
+```
+ kakao: 
+    restKey: KAKAO_REST_API_KEY
+```
